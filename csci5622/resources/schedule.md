@@ -6,6 +6,6 @@ Note: This schedule is a rough approximation and subject to change.
 |:------------:| ----------------| ------------|---------------------------------------------------------|
 | 08.22        | M1, M2.1-2.5    |             | ML Intro												 |
 | 08.24        | M3              |             | Naive Bayes 											 |
-| 08.29        | M8.1-8.4        |             | Logistic Regression									 |
-| 08.31        | M8.5            | Ng & Jordan | Stochastic Gradient Ascent 						 	 |
+| 08.29        | M8.1-8.4        | Ng & Jordan | Logistic Regression									 |
+| 08.31        | M8.5            | 			   | Stochastic Gradient Ascent 						 	 |
 
