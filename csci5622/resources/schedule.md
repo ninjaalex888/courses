@@ -23,4 +23,6 @@
 | 09.26        | 			     | 			   | Regularization, Feature Engr.		 |			|			| 
 | 09.28        | 			     | 			   | 									 |			|			| 
 | 09.30        | 		         | 			   | 									 |			| Boosting 	| 
+| 10.03        | 			     | 			   | PAC Learnability					 |			|			| 
+| 10.05        | 			     | 			   | VC Dimension						 |			|			| 
 
