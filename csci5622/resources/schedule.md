@@ -1,9 +1,9 @@
 #CSCI 5622 Calendar
 
 **Notes**:
--This schedule is a rough approximation and subject to change.
--Numbered Reading sections refer to Murphy
--Homework is listed by **due date**
+- This schedule is a rough approximation and subject to change.
+- Numbered Reading sections refer to Murphy
+- Homework is listed by **due date**
 
 | Class Date   | Reading         |  Optional   |                Topic             	 | Vids/Nbks| Homework  | 
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
