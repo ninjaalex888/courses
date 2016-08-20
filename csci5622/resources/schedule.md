@@ -9,7 +9,7 @@
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
 | 08.22        | 1				 |             | ML Intro							 |			|			| 
 | 08.24        | 2.1-2.5, 3      |             | Naive Bayes 						 |			|			| 
-| 08.29        | 8.1-8.2, 8.6    | Ng & Jordan | Logistic Regr., Perceptron			 |			|			| 
+| 08.29        | 8.1-8.2, 8.6    | [Elkan](https://piazza.com/class_profile/get_resource/is29q3nxion50u/is2whxendxg6pt) | Logistic Regr., Perceptron			 |			|			| 
 | 08.31        | 8.3, 8.5        | 			   | Stochastic Gradient Ascent 		 |			|			| 
 | 09.02        | 		         | 			   | 									 |			| KNN		| 
 | 09.05        | 		         | 			   | Labor Day -- **NO CLASS**			 |			|			| 
