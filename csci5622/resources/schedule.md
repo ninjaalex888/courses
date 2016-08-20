@@ -2,7 +2,7 @@
 
 Note: This schedule is a rough approximation and subject to change.
 
-| Class Dates  | Reading         |    Optional |                Topic                                	 |
+| Class Date   | Reading         |    Optional |                Topic                                	 |
 |:------------:| ----------------| ------------|---------------------------------------------------------|
 | 08.22        | M1, M2.1-2.5    |             | ML Intro												 |
 | 08.24        | M3              |             | Naive Bayes 											 |
