@@ -5,7 +5,7 @@
 - Numbered Reading sections refer to Murphy
 - Homework is listed by **due date**
 
-| Date 		   | Reading         |  Optional   |                Topic             	 | Vids/Nbks| Hmwk  	| 
+| Date 		   | Reading         |  Optional   |                Topic             	 | Vids/NBKs| Hmwk  	| 
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
 | 08.22        | 1				 |             | ML Intro							 |			|			| 
 | 08.24        | 2.1-2.5, 3      |             | Naive Bayes 						 |			|			| 
