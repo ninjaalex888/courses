@@ -26,6 +26,7 @@
 | 09.30        | 		         | 			   | 									 |			| Boosting 	| 
 | 10.03        | 			     | 			   | PAC Learnability					 |			|			| 
 | 10.05        | 			     | 			   | VC Dimension						 |			|			| 
+| 10.07        | 			     | 			   | 	       						     |			| Feature Engr.	| 
 | 10.10        | 			     | 			   | 									 |			|			| 
 | 10.12        | 			     | 			   | 									 |			|			| 
 | 10.14        | 			     | 			   | 									 |			| Learnability| 
