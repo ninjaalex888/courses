@@ -51,7 +51,8 @@ class Knearest:
     def majority(self, item_indices):
         """
         Given the indices of training examples, return the majority label.  If
-        there's a tie, return the median label (as implemented in numpy).
+        there's a tie, return the median of the majority labels (as implemented 
+        in numpy).
 
         :param item_indices: The indices of the k nearest neighbors
         """
