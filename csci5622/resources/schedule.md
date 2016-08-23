@@ -7,7 +7,7 @@
 
 | Date 		   | Reading         |  Optional   |                Topic             	 | Vids/NBKs| Hmwk  	| 
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
-| 08.22        | 1				 |             | ML Intro							 |			|			| 
+| 08.22        | 1				 |             | ML Intro							 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson01/1a.pdf)		|			| 
 | 08.24        | 2.1-2.5, 3      |             | Naive Bayes 						 |			|			| 
 | 08.29        | 8.1-8.2, 8.6    | [Elkan](https://piazza.com/class_profile/get_resource/is29q3nxion50u/is2whxendxg6pt) | Logistic Regr., Perceptron			 |			|			| 
 |              |              | [Ng & Jordan](https://piazza.com/class_profile/get_resource/is29q3nxion50u/is2wmscpcxh184) | 		 |			|			| 
