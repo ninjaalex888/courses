@@ -12,7 +12,7 @@
 | 08.29        | 8.1-8.2, 8.6    | [Elkan](https://piazza.com/class_profile/get_resource/is29q3nxion50u/is2whxendxg6pt) | Logistic Regr., Perceptron			 |			|			| 
 |              |              | [Ng & Jordan](https://piazza.com/class_profile/get_resource/is29q3nxion50u/is2wmscpcxh184) | 		 |			|			| 
 | 08.31        | 8.3, 8.5        | 			   | Stochastic Gradient Ascent 		 |			|			| 
-| 09.02        | 		         | 			   | 									 |			| KNN		| 
+| 09.02        | 		         | 			   | 									 |			| [KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 09.05        | 		         | 			   | Labor Day -- **NO CLASS**			 |			|			| 
 | 09.07        | 		         | 			   | Support Vector Machines 			 |			|			| 
 | 09.09        | 		         | 			   | 									 |			| LogReg	| 
