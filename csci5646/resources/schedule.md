@@ -11,6 +11,8 @@
 | 08.25        | 2, 3 			 |             | geometry, orthogonality			 	|			 					| 
 | 08.30        | 6, 7			 | 11		   | LS problems, projections, Gram-Schmidt |			 					| 
 | 09.01        | 8, 10			 | 			   | Modified GS, Householder			 	|			 					| 
+| 09.02        | 		         | 			   | 									 	|	
+[Problem Set 1](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isahs1j1oki40a)		 					| 
 | 09.06        | 		         | 			   | 									 	|			 					| 
 | 09.08        | 		         | 			   | 									 	|			 					| 
 | 09.13        | 		         | 			   | 									 	|			 					| 
