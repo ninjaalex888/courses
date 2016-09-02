@@ -14,6 +14,7 @@
 | 09.02        | 		         | 			   | 									 	|	[Problem Set 1](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isahs1j1oki40a)		 					| 
 | 09.06        | 		         | 			   | 									 	|			 					| 
 | 09.08        | 		         | 			   | 									 	|			 					| 
+| 09.09        | 		         | 			   | 									 	|	[Problem Set 2](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iskv6e4vekn5bl)		 					| 
 | 09.13        | 		         | 			   | 									 	|			 					| 
 | 09.15        | 		         | 			   | 									 	|			 					| 
 | 09.20        | 			 	 | 			   | 									 	|			 					| 
