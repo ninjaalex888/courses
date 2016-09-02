@@ -47,8 +47,6 @@ class Example:
                 self.nonzero[vocab.index(word)] = word
         self.x[0] = 1
 
-        self.df = df 
-
 
 class LogReg:
     def __init__(self, num_features, lam, eta=lambda x: 0.1):
