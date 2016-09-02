@@ -15,7 +15,7 @@
 | 09.02        | 		         | 			   | 									 |			| [KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 09.05        | 		         | 			   | Labor Day -- **NO CLASS**			 |			|			| 
 | 09.07        | 		         | 			   | Support Vector Machines 			 |			|			| 
-| 09.09        | 		         | 			   | 									 |			| LogReg	| 
+| 09.09        | 		         | 			   | 									 |			| [LogReg](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/logreg/assign.md)	| 
 | 09.12        | 		         | 			   | Dual/Slack SVMs 					 |			|			| 
 | 09.14        | 		         | 			   | Kernel	Methods	 					 |			|			| 
 | 09.19        | 16.1-16.4		 | 			   | Boosting 							 |			|			| 
