@@ -166,10 +166,10 @@ if __name__ == "__main__":
     for pp in xrange(args.passes):
         random.shuffle(train)
         for ex in train:
-            iteration += 1
             lr.sg_update(ex, iteration)
             if iteration % 5 == 1:
                 train_lp, train_acc = lr.progress(train)
                 ho_lp, ho_acc = lr.progress(test)
                 print("Update %i\tTP %f\tHP %f\tTA %f\tHA %f" %
                       (iteration, train_lp, ho_lp, train_acc, ho_acc))
+            iteration += 1
