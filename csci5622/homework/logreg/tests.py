@@ -22,7 +22,7 @@ class TestLogReg(unittest.TestCase):
         self.assertAlmostEqual(w[4], 0.0)
 
         print(self.logreg_unreg.w)
-        print(kPOS.x)
+        print(kNEG.x)
         w = self.logreg_unreg.sg_update(kNEG, 1)
         self.assertAlmostEqual(w[0], -0.49330714907571527)
         self.assertAlmostEqual(w[1], 2.0)
