@@ -14,9 +14,9 @@
 | 08.31        | 8.3, 8.5        | 			   | Stochastic Gradient Ascent 		 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson04/lesson04.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lwf58whD9P7fjq5fbCgVVrp)/[nbk](https://nbviewer.jupyter.org/url/grandmaster.colorado.edu/~cketelsen/files/csci5622/notebooks/lesson04/lesson04NBKAnswers.ipynb?flush_cache=true)	 	|			| 
 | 09.02        | 		         | 			   | 									 |			| [KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 09.05        | 		         | 			   | Labor Day -- **NO CLASS**			 |			|			| 
-| 09.07        | [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | Hard-Margin SVMs |			|			| 
-| 09.12        | [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | Soft-Margin SVMs |			|			| 
-| 09.14        | [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | The Kernel Trick |			|			| 
+| 09.07        | Sections 1, 3.1-3.2 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | Hard-Margin SVMs |			|			| 
+| 09.12        | Section 3.4 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | Soft-Margin SVMs |			|			| 
+| 09.14        | Section 4 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | The Kernel Trick |			|			| 
 | 09.16        | 		         | 			   | 									 |			| [LogReg](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/logreg/assign.md)	| 
 | 09.19        | 16.1-16.4		 | 			   | Boosting 							 |			|			| 
 | 09.21        | 7		         | 			   | Regression, Eval. Metrics			 |			|			| 
