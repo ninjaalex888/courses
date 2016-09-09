@@ -17,6 +17,7 @@
 | 09.09        | 		         | 			   | 									 	|	[Problem Set 2](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iskv6e4vekn5bl)		 				   | 
 | 09.13        | 12, 13		     | 			   | Conditioning, Floating Point Arithmetic|			 					| 
 | 09.15        | 14, 15		     | 			   | Stability							 	|			 					| 
+| 09.16        | 			 	 | 			   | 									 	|	[Problem Set 3](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw04zxmzex5me) / [Data](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw05g7ajor5z8)			| 
 | 09.20        | 			 	 | 			   | 									 	|			 					| 
 | 09.22        |  		         | 			   | 									 	|			 					| 
 | 09.27        | 			     | 			   | 									 	|			 					| 
