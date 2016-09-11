@@ -15,7 +15,7 @@
 | 09.02        | 		         | 			   | 									 |			| [KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 09.05        | 		         | 			   | Labor Day -- **NO CLASS**			 |			|			| 
 | 09.07        | 1, 3.1-3.2 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | Hard-Margin SVMs |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson05/lesson05.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lxz0JFghO9LkIt1Q8Lnw6Mn)/[nbk](http://nbviewer.jupyter.org/url/grandmaster.colorado.edu/~cketelsen/files/csci5622/notebooks/lesson05/lesson05NBKAnswers.ipynb?flush_cache=true)/[geo](http://nbviewer.jupyter.org/url/grandmaster.colorado.edu/~cketelsen/files/csci5622/notebooks/lesson05/lesson05SVMGeometry.ipynb?flush_cache=true)		|			| 
-| 09.12        | 3.4 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | Soft-Margin SVMs |			|			| 
+| 09.12        | 3.4 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 		[Platt](https://piazza.com/class_profile/get_resource/is29q3nxion50u/isz5gnginau7jb)	   | Soft-Margin SVMs |			|			| 
 | 09.14        | 4 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | The Kernel Trick |			|			| 
 | 09.16        | 		         | 			   | 									 |			| [LogReg](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/logreg/assign.md)	| 
 | 09.19        | 16.1-16.4		 | 			   | Boosting 							 |			|			| 
