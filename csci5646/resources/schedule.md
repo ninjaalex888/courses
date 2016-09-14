@@ -15,7 +15,7 @@
 | 09.06        | 10		         | 			   | Householder Continued				 	|			 					| 
 | 09.08        | 11		         | 			   | Solving the LS Problem				 	|			 					| 
 | 09.09        | 		         | 			   | 									 	|	[Problem Set 2](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iskv6e4vekn5bl)		 				   | 
-| 09.13        | Notes 			 | 			   | Rank-Revealing QR 						|			 					| 
+| 09.13        | [Notes](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/it26eygs7251p4) 			 | 			   | Rank-Revealing QR 						|			 					| 
 | 09.15        | 12, 13		     | 			   | Conditioning, Floating Point Arithmetic|			 					| 
 | 09.16        | 			 	 | 			   | 									 	|	[Problem Set 3](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw04zxmzex5me) / [Data](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw05g7ajor5z8)			| 
 | 09.20        | 14, 15		 	 | 			   | Stability							 	|			 					| 
