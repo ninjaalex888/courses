@@ -23,7 +23,7 @@ Coding (20pts):
 
 Analysis (5pts):
 
-1.  Use the scikit implementation of support vector machines to train a classifier to distinguish 3's from 8's.  (Use the MNIST data from the KNN homework.)
+1.  Use the scikit implementation of support vector machines to train a classifier to distinguish 3's from 8's (using the MNIST data from the KNN homework).
 1.  Try at least five values of the regularization parameter _C_ and at least two kernels.  Comment on performance for the varying parameters you chose by either testing on a hold-out set or performing cross-validation. 
 1.  Give examples of support vectors from each class when using a linear kernel.
 
@@ -31,6 +31,7 @@ Notes
 -
 
 - I've provided you a sample driver function that reads in the data and plots training examples.  You will have to add the rest to do the Analysis portion.  Do **NOT** submit your driver file to Moodle. 
+- Sklearn's implementation of support vector machines gives a convenient method for extracting support vectors from each class.  Feel free to use that for the analysis portion of the assignment.  
 
 
 What to turn in
