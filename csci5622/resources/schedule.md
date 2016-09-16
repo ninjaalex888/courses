@@ -20,7 +20,7 @@
 | 09.16        | 		         | 			   | 									 |			| [LogReg](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/logreg/assign.md)	| 
 | 09.19        | 16.1-16.4		 | 			   | Boosting 							 |			|			| 
 | 09.21        | 7		         | 			   | Regression, Eval. Metrics			 |			|			| 
-| 09.23        | 		         | 			   | 									 |			| SVM 		| 
+| 09.23        | 		         | 			   | 									 |			| [SVM](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/svm/assign.md) 		| 
 | 09.26        | 			     | 			   | Regularization, Feature Engr.		 |			|			| 
 | 09.28        | 			     | 			   | 									 |			|			| 
 | 09.30        | 		         | 			   | 									 |			| Boosting 	| 
