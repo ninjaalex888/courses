@@ -20,7 +20,7 @@
 | 09.16        | 			 	 | 			   | 									 	|	[Problem Set 3](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw04zxmzex5me) / [Data](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw05g7ajor5z8)			| 
 | 09.20        | 14, 15		 	 | 			   | Stability							 	|			 					| 
 | 09.22        |  		         | 			   | 									 	|			 					| 
-| 09.23        |  		         | 			   | 									 	|  [Problem Set 4](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/it4zjv6dr4o1bm)			 					| 
+| 09.23        |  		         | 			   | 									 	|  [Problem Set 4](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/it53uk72gep1i4)			 					| 
 | 09.27        | 			     | 			   | 									 	|			 					| 
 | 09.29        | 			     | 			   | 									 	|			 					| 
 | 10.04        | 			     | 			   | 									 	|			 					| 
