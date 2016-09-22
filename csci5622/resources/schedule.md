@@ -19,8 +19,8 @@
 | 09.12        | 3.4 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 		[Platt](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/smo-book.pdf)	   | Soft-Margin SVMs | [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson06/lesson06.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxxApfk0Qwzw2Ji_XRxQY0c)			|			| 
 | 09.14        | 4 of [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf)		         | 			   | The Kernel Trick |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson07/lesson07.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxO8xo2z8pFtpGXeFlaGOTp)		|			| 
 | 09.16        | 		         | 			   | 									 |			| [LogReg](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/logreg/assign.md)	| 
-| 09.19        |        		 | 			   | Decision Trees						 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson08/lesson08.pdf)		| [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson09/lesson09.pdf)			| 
-| 09.21        | 16.1-16.4       | 			   | Boosting 							 |			|			| 
+| 09.19        |        		 | 			   | Decision Trees						 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson08/lesson08.pdf)		| 			| 
+| 09.21        | 16.1-16.4       | 			   | Boosting 							 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson09/lesson09.pdf)		|			| 
 | 09.23        | 		         | 			   | 									 |			| [SVM](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/svm/assign.md) 		| 
 | 09.26        | 			     | 			   | Regression 			      		 |			|			| 
 | 09.28        | 			     | 			   | Regularization						 |			|			| 
