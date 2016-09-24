@@ -24,10 +24,10 @@
 | 09.23        | 		         | 			   | 									 |			| [SVM](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/svm/assign.md) 		| 
 | 09.26        | 			     | 			   | Regression 			      		 |			|			| 
 | 09.28        | 			     | 			   | Regularization						 |			|			| 
-| 09.30        | 		         | 			   | 									 |			| Boosting 	| 
+| 09.30        | 		         | 			   | 									 |			| 			| 
 | 10.03        | 			     | 			   | Learning Theory Part 1			     |			|			| 
 | 10.05        | 			     | 			   | Learning Theory Part 2				 |			|			| 
-| 10.07        | 			     | 			   | 	       						     |			| 			| 
+| 10.07        | 			     | 			   | 	       						     |			| Boosting	| 
 | 10.10        | 			     | 			   | 									 |			|			| 
 | 10.12        | 			     | 			   | 									 |			|			| 
 | 10.14        | 			     | 			   | 									 |			| Learnability		| 
