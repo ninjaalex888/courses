@@ -24,7 +24,6 @@
 | 09.23        | 		         | 			   | 									 |			| [SVM](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/svm/assign.md) 		| 
 | 09.26        | 			     | 			   | Regression 			      		 |	[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LwR6IVtKAqSlzy4PjscOG1E)		|			| 
 | 09.28        | 			     | 			   | Regularization						 |			|			| 
-| 09.30        | 		         | 			   | 									 |			| 			| 
 | 10.03        | 			     | 			   | Learning Theory Part 1			     |			|			| 
 | 10.05        | 			     | 			   | Learning Theory Part 2				 |			|			| 
 | 10.07        | 			     | 			   | 	       						     |			| Boosting	| 
