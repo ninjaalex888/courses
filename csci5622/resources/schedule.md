@@ -23,7 +23,7 @@
 | 09.21        | 16.1-16.4       | 			   | Boosting 							 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson09/lesson09.pdf)		|			| 
 | 09.23        | 		         | 			   | 									 |			| [SVM](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/svm/assign.md) 		| 
 | 09.26        | 7.1-7.3			     | 			   | Regression 			      		 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson10/lesson10.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LwR6IVtKAqSlzy4PjscOG1E)		|			| 
-| 09.28        | 7.4-7.5			     | 			   | Regularization						 |			|			| 
+| 09.28        | 7.4-7.5			     | 	[6.2 in James et. al.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)		   | Regularization						 |			|			| 
 | 10.03        | 			     | 			   | Learning Theory Part 1			     |			|			| 
 | 10.05        | 			     | 			   | Learning Theory Part 2				 |			|			| 
 | 10.07        | 			     | 			   | 	       						     |			| Boosting	| 
