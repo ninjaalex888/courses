@@ -23,6 +23,7 @@
 | 09.23        |  		         | 			   | 									 	|  [Problem Set 4](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/it53uk72gep1i4)			 					| 
 | 09.27        | 			     | 			   | 									 	|			 					| 
 | 09.29        | 			     | 			   | 									 	|			 					| 
+| 10.01        | 			     | 			   | 									 	|	[Problem Set 5](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/ithfms9ub4qh0)		 					| 
 | 10.04        | 			     | 			   | 									 	|			 					| 
 | 10.06        | 			     | 			   | 									 	|			 					| 
 | 10.11        | 			     | 			   | 									 	|			 					| 
