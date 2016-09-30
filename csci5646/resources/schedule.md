@@ -26,6 +26,7 @@
 | 10.01        | 			     | 			   | 									 	|	[Problem Set 5](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/ithfms9ub4qh0)		 					| 
 | 10.04        | 			     | 			   | 									 	|			 					| 
 | 10.06        | 			     | 			   | 									 	|			 					| 
+| 10.07        | 			     | 			   | 									 	|	[Problem Set 6](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/itpf0shiosj6mj)		 					| 
 | 10.11        | 			     | 			   | 									 	|			 					| 
 | 10.13        | 			     | 			   | 									 	|			 					| 
 | 10.18        | 			     | 			   | 									 	|			 					| 
