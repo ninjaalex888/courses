@@ -39,7 +39,7 @@ Analysis (10 points):
 What to turn in
 -
 
-1.  Submit your _boosting.py_ file
+1.  Submit your _boost.py_ file
 1.  Submit your _analysis.pdf_ file (no more than one page; pictures
     are better than text)
 

@@ -51,7 +51,7 @@ class AdaBoost:
         Create a new adaboost classifier.
         
         Args:
-            N (int, optional): Number of weak learners in classifier.
+            n_learners (int, optional): Number of weak learners in classifier.
             base (BaseEstimator, optional): Your general weak learner 
 
         Attributes:
