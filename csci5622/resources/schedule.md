@@ -26,7 +26,7 @@
 | 09.28        | 7.4-7.5			     | 	[James 6.2](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)		   | Regularization						 |[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson11/lesson11.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lwll_CxrMufMPNv6hH7g1Eg)		|			| 
 | 10.03        | 			     | 			   | Learning Theory Part 1			     |			|			| 
 | 10.05        | 			     | 			   | Learning Theory Part 2				 |			|			| 
-| 10.07        | 			     | 			   | 	       						     |			| Boosting	| 
+| 10.07        | 			     | 			   | 	       						     |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
 | 10.10        | 			     | 			   | 									 |			|			| 
 | 10.12        | 			     | 			   | 									 |			|			| 
 | 10.14        | 			     | 			   | 									 |			| Learnability		| 
