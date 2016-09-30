@@ -55,5 +55,4 @@ Hints
 -
 
 1.  Don't use all of the data, especially at first.  Use the _limit_
-    command line argument (as in the above example).  We'll be using
-    this dataset again with techniques that scale better.
+    command line argument (as in the above example).  
