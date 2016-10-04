@@ -19,20 +19,20 @@
 | 09.15        | 12, 13		     | 			   | Conditioning, Floating Point Arithmetic|			 					| 
 | 09.16        | 			 	 | 			   | 									 	|	[Problem Set 3](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw04zxmzex5me) / [Data](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/isw05g7ajor5z8)			| 
 | 09.20        | 14, 15		 	 | 			   | Stability							 	|			 					| 
-| 09.22        |  		         | 			   | 									 	|			 					| 
-| 09.23        |  		         | 			   | 									 	|  [Problem Set 4](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/it53uk72gep1i4)			 					| 
-| 09.27        | 			     | 			   | 									 	|			 					| 
-| 09.29        | 			     | 			   | 									 	|			 					| 
+| 09.22        | 20 	         | 			   | LU Factorization 						|			 					| 
+| 09.23        |  		         | 			   | 										|  [Problem Set 4](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/it53uk72gep1i4)			 					| 
+| 09.27        | 21, 22		     | 			   | LU with Pivoting 					 	|			 					| 
+| 09.29        | 23			     | 			   | Cholesky Factorization				 	|			 					| 
 | 10.01        | 			     | 			   | 									 	|	[Problem Set 5](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/ithfms9ub4qh0)		 					| 
-| 10.04        | 			     | 			   | 									 	|			 					| 
-| 10.06        | 			     | 			   | 									 	|			 					| 
+| 10.04        | 24, 25		     | 			   | Eigenvalue and Eigenvectors 		 	|			 					| 
+| 10.06        | 25, 26		     | 			   | Upper Hessenberg Form 					|			 					| 
 | 10.07        | 			     | 			   | 									 	|	[Problem Set 6](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/itpf0shiosj6mj)		 					| 
-| 10.11        | 			     | 			   | 									 	|			 					| 
-| 10.13        | 			     | 			   | 									 	|			 					| 
-| 10.18        | 			     | 			   | 									 	|			 					| 
-| 10.20        | 			     | 			   | 									 	|			 					| 
-| 10.25        | 			     | 			   | 									 	|			 					| 
-| 10.27        | 			     | 			   | 									 	|			 					| 
+| 10.11        | 27			     | 			   | Power Method and Variants				|			 					| 
+| 10.13        | 28			     | 			   | Unshifted QR 							|			 					| 
+| 10.18        | 29			     | 			   | Francis's Algorithm 					|			 					| 
+| 10.20        | 30			     | 			   | Other Eigenvalue Methods 				|			 					| 
+| 10.25        | 4, 5		     | 			   | Singular Value Decomposition			|			 					| 
+| 10.27        | 31			     | 			   | Computing the SVD 					 	|			 					| 
 | 10.28        | 			     | 			   | 									 	|	Project Proposal Due		| 
 | 11.01        | 			     | 			   | 									 	|			 					| 
 | 11.03        | 			     | 			   | 									 	|			 					| 
