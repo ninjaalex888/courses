@@ -31,10 +31,12 @@
 | 10.13        | 28			     | 			   | Unshifted QR 							|			 					| 
 | 10.18        | 29			     | 			   | Francis's Algorithm 					|			 					| 
 | 10.20        | 30			     | 			   | Other Eigenvalue Methods 				|			 					| 
+| 10.21        | 				 | 			   | 										|	Midterm given	 			| 
 | 10.25        | 4, 5		     | 			   | Singular Value Decomposition			|			 					| 
 | 10.27        | 31			     | 			   | Computing the SVD 					 	|			 					| 
-| 10.28        | 			     | 			   | 									 	|	Project Proposal Due		| 
+| 10.28        | 			     | 			   | 									 	|	Midterm due					| 
 | 11.01        | 			     | 			   | 									 	|			 					| 
+| 11.02        | 			     | 			   | 									 	|	Proposal Due				| 
 | 11.03        | 			     | 			   | 									 	|			 					| 
 | 11.08        | 			     | 			   | 									 	|			 					| 
 | 11.10        | 			     | 			   | 									 	|			 					| 
