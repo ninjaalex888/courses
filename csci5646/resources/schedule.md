@@ -29,6 +29,7 @@
 | 10.07        | 			     | 			   | 									 	|	[Problem Set 6](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/itpf0shiosj6mj)		 					| 
 | 10.11        | 27			     | 			   | Power Method and Variants				|			 					| 
 | 10.13        | 28			     | 			   | Unshifted QR 							|			 					| 
+| 10.14        | 			     | 			   | 									 	|	[Problem Set 7](https://piazza-resources.s3.amazonaws.com/is1vxcehtkp2d1/ityr871b2rhnn/hmwk07.pdf?AWSAccessKeyId=AKIAIEDNRLJ4AZKBW6HA&Expires=1475794037&Signature=AE%2FIug3yMb%2B1vg%2BrwUz98%2F4seJc%3D)		 					| 
 | 10.18        | 29			     | 			   | Francis's Algorithm 					|			 					| 
 | 10.20        | 30			     | 			   | Other Eigenvalue Methods 				|			 					| 
 | 10.21        | 				 | 			   | 										|	Midterm given	 			| 
