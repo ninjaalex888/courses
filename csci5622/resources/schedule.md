@@ -25,7 +25,7 @@
 | 09.26        | 7.1-7.3			     | 			   | Regression 			      		 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson10/lesson10.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LwR6IVtKAqSlzy4PjscOG1E)		|			| 
 | 09.28        | 7.4-7.5			     | 	[James 6.2](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)		   | Regularization						 |[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson11/lesson11.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lwll_CxrMufMPNv6hH7g1Eg)		|			| 
 | 10.03        | [Mohri 2](https://moodle.cs.colorado.edu/pluginfile.php/2076/mod_resource/content/1/mohri_learn.pdf)			     | 			   | Learning Theory Part 1			     | [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson12/lesson12.pdf)			|			| 
-| 10.05        | 			     | 			   | Learning Theory Part 2				 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson13/lesson13.pdf)		|			| 
+| 10.05        | [Mohri 3.2-3.3](https://moodle.cs.colorado.edu/pluginfile.php/2076/mod_resource/content/1/mohri_learn.pdf)			     | 			   | Learning Theory Part 2				 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson13/lesson13.pdf)		|			| 
 | 10.07        | 			     | 			   | 	       						     |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
 | 10.10        | 			     | 			   | 									 |			|			| 
 | 10.12        | 			     | 			   | 									 |			|			| 
@@ -45,7 +45,7 @@
 | 11.23        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
 | 11.28        | 			     | 			   | 									 |			|			| 
 | 11.30        | 			     | 			   | 									 |			|			| 
-| 12.05        | 			     | 			   | 									 |			|			| 
+| 12.05        | 			     | 			   |  Guest Lecture  					 |			|			| 
 | 12.07        | 			     | 			   | 									 |			|    		| 
 | 12.09        | 			     | 			   | 									 |			| Project Due   		| 
 
