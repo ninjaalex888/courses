@@ -58,7 +58,7 @@ and negative if they lie below the sine curve.
 It turns out that the VC Dimension of this hypothesis class is infinite.  In other words, for **any** number
 of training examples there exists a configuration of points which can be shattered by the sine functions.  You will prove this fact by construction, by completing the code in *vc_sin.py* to determine the parameter
 w that perfectly classifies a given training set.  In addition to completing the code you should clearly describe your 
-solution technique in your analysis.  To make things easier (you'll have to do some thinking as to why this makes things easier) we've set up the code so that the training points are of the form 2**(-k) where k is a nonnegative integer. 
+solution technique in your analysis.  To make things easier (you'll have to do some thinking as to why this makes things easier) we've set up the code so that the training points are of the form x = 2**(-k) where k is a nonnegative integer. 
 
 <br>
 
