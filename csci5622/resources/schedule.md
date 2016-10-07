@@ -29,7 +29,7 @@
 | 10.07        | 			     | 			   | 	       						     |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
 | 10.10        | 			     | 			   | Multi-Label / Ranking		 |			|			| 
 | 10.12        | 			     | 			   | Feature Engineering				 |			|			| 
-| 10.14        | 			     | 			   | 									 |			| Learnability		| 
+| 10.14        | 			     | 			   | 									 |			| [Learnability](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/learnability/assign.md)		| 
 | 10.17        | 			     | 			   | Review								 |			|			| 
 | 10.19        | 			     | 			   | Midterm							 |			|			| 
 | 10.24        | 			     | 			   | 									 |			|			| 
