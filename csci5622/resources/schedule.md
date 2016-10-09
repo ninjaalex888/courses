@@ -27,7 +27,7 @@
 | 10.03        | [Mohri 2](https://moodle.cs.colorado.edu/pluginfile.php/2076/mod_resource/content/1/mohri_learn.pdf)			     | 			   | Learning Theory Part 1			     | [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson12/lesson12.pdf)			|			| 
 | 10.05        | [Mohri 3.2-3.3](https://moodle.cs.colorado.edu/pluginfile.php/2076/mod_resource/content/1/mohri_learn.pdf)			     | 			   | Learning Theory Part 2				 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson13/lesson13.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LwkHDDVrVrd2lrpq2VFLZgT)		|			| 
 | 10.07        | 			     | 			   | 	       						     |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
-| 10.10        | 			     | 			   | Multi-Label / Ranking		 |			|			| 
+| 10.10        | 			     | 			   | Multiclass / Ranking		 |	[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LyD3ZbpbldUzj4Y_NOWlfL6)		|			| 
 | 10.12        | 			     | 			   | Feature Engineering				 |			|			| 
 | 10.14        | 			     | 			   | 									 |			| [Learnability](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/learnability/assign.md)		| 
 | 10.17        | 			     | 			   | Review								 |			|			| 
