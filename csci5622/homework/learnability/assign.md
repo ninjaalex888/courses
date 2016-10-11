@@ -19,7 +19,7 @@ are integers in the interval [0,99].  A concept c labels points on the interior 
 as positive and points on the exterior of the triangle as negative. 
 
 Give a bound on the number of randomly drawn training examples sufficient to assure that for any target class
-c in C, any consistent learner will, with probability 95%, output a hypothesis with error at most 0.15.  
+c in C, any consistent learner using H=C will, with probability 95%, output a hypothesis with error at most 0.15.  
 
 **Note**: To make life easier, we'll allow degenerate triangles in C.  That is, triangles where the vertices
 are collinear.  The following image depicts an example of a degenerate and nondegenerate triangle. 
