@@ -51,7 +51,7 @@ Consider the case of classifying 1D points on the real line with the set of hypo
 <img src="figs/sin_h.png" width="400">
 
 For a given value of w, the hypothesis classifies points as positive if they lie on or below the sine curve 
-and negative if they lie below the sine curve. 
+and negative if they lie above the sine curve. 
 
 <img src="figs/sine2.png" width="900">
 
