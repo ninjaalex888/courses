@@ -53,7 +53,7 @@ Consider the case of classifying 1D points on the real line with the set of hypo
 For a given value of w, the hypothesis classifies points as positive if they lie on or above the sine curve 
 and negative if they lie below the sine curve. 
 
-<img src="figs/sine.png" width="900">
+<img src="figs/sine2.png" width="900">
 
 It turns out that the VC Dimension of this hypothesis class is infinite.  In other words, for **any** number
 of training examples there exists a configuration of points which can be shattered by the sine functions.  You will prove this fact by construction, by completing the code in *vc_sin.py* to determine the parameter
