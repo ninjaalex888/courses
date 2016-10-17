@@ -31,7 +31,7 @@
 | 10.12        | 			     | 			   | Feature Engineering				 |			|			| 
 | 10.14        | 			     | 			   | 									 |			| [Learnability](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/learnability/assign.md)		| 
 | 10.17        | 			     | 			   | Review								 |			|			| 
-| 10.19        | 			     | 			   | Midterm							 |			|			| 
+| 10.19        | 			     | 			   | [Midterm](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/midterm_info.md)							 |			|			| 
 | 10.24        | 			     | 			   | 									 |			|			| 
 | 10.26        | 			     | 			   | 									 |			|			| 
 | 10.28        | 			     | 			   | 									 |			| Proposal Milestone		| 
