@@ -30,8 +30,8 @@
 | 10.11        | 27			     | 			   | Power Method and Variants				|			 					| 
 | 10.13        | 28			     | 			   | Unshifted QR 							|			 					| 
 | 10.14        | 			     | 			   | 									 	|	[Problem Set 7](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/ityx94r3vi21ss)		 					| 
-| 10.18        | 29			     | 			   | Francis's Algorithm 					|			 					| 
-| 10.20        | 30			     | 			   | Other Eigenvalue Methods 				|			 					| 
+| 10.18        | 29			     | 			   | Unshifted QR 							|			 					| 
+| 10.20        | 30			     | 			   | Francis's Algorithm					 |			 					| 
 | 10.21        | 				 | 			   | 										|	[Problem Set 8](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iua8uu7869y2n)/Midterm given	 			| 
 | 10.25        | 4, 5		     | 			   | Singular Value Decomposition			|			 					| 
 | 10.27        | 31			     | 			   | Computing the SVD 					 	|			 					| 
