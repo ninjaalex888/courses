@@ -34,7 +34,7 @@ Material Overview
 
 **Logistic Regression**
 - assumptions behind the algorithm 
-- it's probabilistic interpretation 
+- its probabilistic interpretation 
 - how to perform classification with the algorithm 
 - how to find the weights using Stochastic Gradient Ascent 
 - how to efficiently perform regularization in the context of SGA 
