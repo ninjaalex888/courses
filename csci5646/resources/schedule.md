@@ -32,10 +32,10 @@
 | 10.14        | 			     | 			   | 									 	|	[Problem Set 7](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/ityx94r3vi21ss)		 					| 
 | 10.18        | 28			     | 			   | Unshifted QR 							|			 					| 
 | 10.20        | 29			     | 			   | Francis's Algorithm					 |			 					| 
-| 10.21        | 				 | 			   | 										|	[Problem Set 8](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iua8uu7869y2n)/Midterm given	 			| 
+| 10.21        | 				 | 			   | 										|	[Problem Set 8](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iua8uu7869y2n)	 			| 
 | 10.25        | 4, 5		     | 			   | Singular Value Decomposition			|			 					| 
 | 10.27        | 31			     | 			   | Computing the SVD 					 	|			 					| 
-| 10.28        | 			     | 			   | 									 	|	Midterm due					| 
+| 10.28        | 			     | 			   | 									 	|	[Midterm](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iuk33p50cb515c) 					| 
 | 11.01        | 			     | 			   | 									 	|			 					| 
 | 11.02        | 			     | 			   | 									 	|	Proposal Due				| 
 | 11.03        | 			     | 			   | 									 	|			 					| 
