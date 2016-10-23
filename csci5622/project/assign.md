@@ -45,7 +45,7 @@ Project Writeup
 ======================
 
 By 23:55 on Dec 9th, have the person in your group whose last name
-is alphabetically first submit their project writeup in PDF format 
+is alphabetically first submit your project writeup in PDF format 
 explaining what
 you did and what results you achieved on Moodle.  This document should
 make it clear:
@@ -79,7 +79,7 @@ presenting your results.  In your presentation you will explain:
 
 The format of the video is not generally important, but we should 
 be able to clearly see your slides and understand what you are saying. 
-Two possible options for your video format might be film yourselves speaking
+One possible option for your video format might be to film yourselves speaking
 in front of your slides in a room with a projector.  Filming with a 
 reasonably modern smartphone should be more than sufficient.   Alternatively 
 you could do a screencast similar to my videos for this course.  With the 
