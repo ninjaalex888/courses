@@ -18,7 +18,7 @@ You must form a group of 3-5 students enrolled in this course.  If you have a pr
 Proposal
 ==================
 
-The project proposal is due October 28th.  This one page PDF document
+The project proposal is due be 23:55 October 28th.  This one page PDF document
 should describe:
 
 * What the project is. You must describe the task, data, and baselines clearly.
@@ -38,14 +38,15 @@ Data and Baseline Milestone
 ============================
 
 By 23:55 on November 18th the person in your group whose last name
-is alphabetically first should submit a brief (1-2 page) writeup 
+is alphabetically first should submit a brief (1-2 page) PDF document 
 describing your data and the results of your baseline model to Moodle. 
 
 Project Writeup
 ======================
 
 By 23:55 on Dec 9th, have the person in your group whose last name
-is alphabetically first submit their project writeup explaining what
+is alphabetically first submit their project writeup in PDF format 
+explaining what
 you did and what results you achieved on Moodle.  This document should
 make it clear:
 
