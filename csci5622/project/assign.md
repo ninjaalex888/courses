@@ -57,9 +57,7 @@ images that add to the discussion).
 Final Video Presentation
 ========================
 
-Before 23:55 on Dec 9th the person in your group whose last name  
-is alphabetically first should upload a 10-15 min video to YouTube 
-presenting your results.  In your presentation you will explain: 
+Before 23:55 on Dec 9th the person in your group whose last name is alphabetically first should upload a 10-15 min video to YouTube presenting your results.  In your presentation you will explain: 
 
 * What you did
 
@@ -80,7 +78,7 @@ you could do a screencast similar to my videos for this course.  With the
 exception of my writing tablet (which is arguably worth less than 0) everything
 I use to film and edit my videos is freely available online. 
 
-When your video is online you should send me the link.  I will make a master list of video links on GitHub so that your classmates can see what you've been up to all semester. 
+When your video is online you should send me the link.  Note that if you don't want your video out there for the entire world to see you can mark the video as unlisted so that only people with the link can view it.  I will make a master list of video links on GitHub so that your classmates can see what you've been up to all semester. 
 
 
 Grade
