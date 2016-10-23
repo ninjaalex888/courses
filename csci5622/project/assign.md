@@ -1,7 +1,4 @@
-# Final Group Project 
-
-
-Subject
+Final Group Project 
 ==================
 
 Your project should: 
