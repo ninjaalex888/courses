@@ -34,14 +34,14 @@
 | 10.19        | 			     | 			   | [Midterm](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/midterm_info.md)							 |			|			| 
 | 10.24        | 			     | 			   | 									 |			|			| 
 | 10.26        | 			     | 			   | 									 |			|			| 
-| 10.28        | 			     | 			   | 									 |			| Proposal Milestone		| 
+| 10.28        | 			     | 			   | 									 |			| [Proposal](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)| 
 | 10.31        | 			     | 			   | 									 |			|			| 
 | 11.02        | 			     | 			   | 									 |			|			| 
 | 11.07        | 			     | 			   | 									 |			|			| 
 | 11.09        | 			     | 			   | 									 |			|			| 
 | 11.14        | 			     | 			   | 									 |			|			| 
 | 11.16        | 			     | 			   | 									 |			|			| 
-| 11.18        | 			     | 			   | 									 |			| Data Milestone		| 
+| 11.18        | 			     | 			   | 									 |			| [Data/Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) | 
 | 11.21        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
 | 11.23        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
 | 11.28        | 			     | 			   | 									 |			|			| 
