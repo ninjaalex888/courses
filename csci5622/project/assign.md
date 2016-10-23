@@ -86,17 +86,12 @@ Grade
 
 The grade will be out of 100 points, broken into five areas:
 
-* _Presentation_: For your video presentation, do you highlight what
-  you did and make people care?  Did you use time well during the
-  presentation?
+* _Presentation_: For your video presentation, do you highlight what you did and make people care?  Did you use time well during the presentation?
 
-* _Writeup_: Does the writeup explain what you did in a way that is
-  clear and effective?
+* _Writeup_: Does the writeup explain what you did in a way that is clear and effective?
 
-* _Technical Soundness_: Did you use the right tools for the job, and
-  did you use them correctly?  Were they relevant to this class?
+* _Technical Soundness_: Did you use the right tools for the job, and did you use them correctly?  Were they relevant to this class?
 
-* _Effort_: Did you do what you say you would, and was it the right
-  amount of effort.
+* _Effort_: Did you do what you say you would, and was it the right amount of effort.
 
 * _Performance_: How did your techniques perform?
