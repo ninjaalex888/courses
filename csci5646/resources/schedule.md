@@ -37,10 +37,11 @@
 | 10.27        | 31			     | 			   | Computing the SVD 					 	|			 					| 
 | 10.28        | 			     | 			   | 									 	|	[Midterm](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iuk33p50cb515c) 					| 
 | 11.01        | 			     | 			   | 									 	|			 					| 
-| 11.02        | 			     | 			   | 									 	|	Proposal Due				| 
 | 11.03        | 			     | 			   | 									 	|			 					| 
+| 11.04        | 			     | 			   | 									 	|	Proposal Due				| 
 | 11.08        | 			     | 			   | 									 	|			 					| 
 | 11.10        | 			     | 			   | 									 	|			 					| 
+| 11.11        | 			     | 			   | 									 	|	[Problem Set 9](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iupq9ufq2zw51e)		 					| 
 | 11.15        | 			     | 			   | 									 	|			 					| 
 | 11.17        | 			     | 			   | 									 	|			 					| 
 | 11.22        | 			     | 			   | Fall Break -- **NO CLASS**			 	|			 					| 
