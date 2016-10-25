@@ -32,8 +32,8 @@
 | 10.14        | 			     | 			   | 									 |			| [Learnability](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/learnability/assign.md)		| 
 | 10.17        | 			     | 			   | Review								 |			|			| 
 | 10.19        | 			     | 			   | [Midterm](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/midterm_info.md)/[Solutions](https://piazza.com/colorado/fall2016/csci5622/resources)							 |			|			| 
-| 10.24        | 			     | 			   | 									 |			|			| 
-| 10.26        | 			     | 			   | 									 |			|			| 
+| 10.24        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)			     | 			   | Neural Networks Part 1				 |			|			| 
+| 10.26        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)			     | 			   | Neural Networks Part 2				 |			|			| 
 | 10.28        | 			     | 			   | 									 |			| [Proposal](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)| 
 | 10.31        | 			     | 			   | 									 |			|			| 
 | 11.02        | 			     | 			   | 									 |			|			| 
