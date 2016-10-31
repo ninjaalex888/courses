@@ -35,8 +35,8 @@
 | 10.24        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)			     | 			   | Neural Networks Part 1				 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson16/lesson16.pdf)		|			| 
 | 10.26        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)			     | 			   | Neural Networks Part 2				 |			|			| 
 | 10.28        | 			     | 			   | 									 |			| [Proposal](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)| 
-| 10.31        | 			     | | K-Means / GMMs | [vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lx06i__okotMXLbh7Nf165G)/[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson18/lesson18.pdf)			    									 |			|			 
-| 11.02        | 			     | 			   | 									 |			|			| 
+| 10.31        | 11.2.1-11.2.3, 11.4			     | | K-Means / GMMs | [vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lx06i__okotMXLbh7Nf165G)/[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson18/lesson18.pdf)			    									 |			|			 
+| 11.02        | 			     | Spectral Clustering	 | 									 |			|			| 
 | 11.07        | 			     | 			   | 									 |			|			| 
 | 11.09        | 			     | 			   | 									 |			|			| 
 | 11.14        | 			     | 			   | 									 |			|			| 
