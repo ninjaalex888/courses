@@ -39,6 +39,7 @@
 | 11.02        | 			     | | Spectral Clustering									 |			|			| 
 | 11.07        | 			     | 			   | 									 |			|			| 
 | 11.09        | 			     | 			   | 									 |			|			| 
+| 11.01        | 			     | 			   | 									 |			| [feat_eng](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/feature_engineering/assign.md)			| 
 | 11.14        | 			     | 			   | 									 |			|			| 
 | 11.16        | 			     | 			   | 									 |			|			| 
 | 11.18        | 			     | 			   | 									 |			| [Data/Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) | 
