@@ -39,7 +39,7 @@
 | 11.02        | [Luxburg](https://arxiv.org/pdf/0711.0189v1.pdf)			     | | Spectral Clustering									 |			|			| 
 | 11.07        | 			     | 			   | 									 |			|			| 
 | 11.09        | 			     | 			   | 									 |			|			| 
-| 11.01        | 			     | 			   | 									 |			| [Feature Engr.](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/feature_engineering/assign.md)			| 
+| 11.11        | 			     | 			   | 									 |			| [Feature Engr.](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/feature_engineering/assign.md)			| 
 | 11.14        | 			     | 			   | 									 |			|			| 
 | 11.16        | 			     | 			   | 									 |			|			| 
 | 11.18        | 			     | 			   | 									 |			| [Data/Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) | 
