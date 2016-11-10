@@ -38,7 +38,7 @@
 | 10.31        | 11.2.1-11.2.3, 11.4			     | | K-Means / GMMs | [vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lx06i__okotMXLbh7Nf165G)/[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson18/lesson18.pdf)								 |			|			 
 | 11.02        | [Luxburg](https://arxiv.org/pdf/0711.0189v1.pdf)			     | | Spectral Clustering |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson19/lesson19.pdf)		|			| 
 | 11.07        | 			     | 			   | 									 |			|			| 
-| 11.09        | 			     | 			   | 									 |			|			| 
+| 11.09        | 			     | [Schlens](https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf)			   | Principal Components				 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson19/lesson19.pdf)		|			| 
 | 11.11        | 			     | 			   | 									 |			| [Feature Engr.](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/feature_engineering/assign.md)			| 
 | 11.14        | 			     | 			   | 									 |			|			| 
 | 11.16        | 			     | 			   | 									 |			|			| 
