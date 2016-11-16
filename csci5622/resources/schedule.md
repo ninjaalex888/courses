@@ -40,7 +40,7 @@
 | 11.07        | 			     | 			   | 									 |			|			| 
 | 11.09        | 			     | [Schlens](https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf)			   | Principal Components				 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson20/lesson20.pdf)		|			| 
 | 11.11        | 			     | 			   | 									 |			| [Feature Engr.](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/feature_engineering/assign.md)			| 
-| 11.14        | 			     | 			   | 									 |			|			| 
+| 11.14        | 			     | 			   | Bayes Nets							 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson21/lesson21.pdf)		|			| 
 | 11.16        | 			     | 			   | 									 |			|			| 
 | 11.18        | 			     | 			   | 									 |			| [Data/Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) | 
 | 11.21        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
