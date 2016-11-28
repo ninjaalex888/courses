@@ -33,22 +33,22 @@
 | 10.18        | 28			     | 			   | Unshifted QR 							|			 					| 
 | 10.20        | 29			     | 			   | Francis's Algorithm					 |			 					| 
 | 10.21        | 				 | 			   | 										|	[Problem Set 8](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iua8uu7869y2n)	 			| 
-| 10.25        | 4, 5		     | 			   | Singular Value Decomposition			|			 					| 
-| 10.27        | 31			     | 			   | Computing the SVD 					 	|			 					| 
+| 10.25        | 4, 5		     | 			   | SVD I|			 					| 
+| 10.27        | 31			     | 			   | SVD II|			 					| 
 | 10.28        | 			     | 			   | 									 	|	[Midterm](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iuk33p50cb515c) 					| 
-| 11.01        | 			     | 			   | 									 	|			 					| 
+| 11.01        | 			     | 			   | Applications of SVD				 	|			 					| 
 | 11.03        | 			     | 			   | 									 	|			 					| 
 | 11.04        | 			     | 			   | 									 	|	Proposal Due				| 
 | 11.08        | 			     | 			   | 									 	|			 					| 
-| 11.10        | 			     | 			   | 									 	|			 					| 
-| 11.11        | 			     | 			   | 									 	|	[Problem Set 9](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iupq9ufq2zw51e)		 					| 
-| 11.15        | 			     | 			   | 									 	|			 					| 
-| 11.17        | 			     | 			   | 									 	|			 					| 
+| 11.10        | 			     | 			   | Iterative Methods					 	|			 					| 
+| 11.11        | 			     | 			   | 									 	|	[Problem Set 9](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iupq9ufq2zw51e)		 	    		| 
+| 11.15        | 			     | 			   | Conjugate Gradients I				 	|			 					| 
+| 11.17        | 			     | 			   | Conjugate Gradients II				 	|			 					| 
 | 11.22        | 			     | 			   | Fall Break -- **NO CLASS**			 	|			 					| 
 | 11.24        | 			     | 			   | Fall Break -- **NO CLASS**			 	|			 					| 
-| 11.29        | 			     | 			   | 									 	|			 					| 
-| 12.01        | 			     | 			   | 									 	|			 					| 
-| 12.06        | 			     | 			   | 									 	|			 					| 
-| 12.08        | 			     | 			   | 									 	|			  					| 
+| 11.29        | 			     | 			   | Preconditioners					 	|			 					| 
+| 12.01        | 			     | 			   | Intro to Multigrid					 	|			 					| 
+| 12.06        | 			     | 			   | Graph Applications					 	|			 					| 
+| 12.08        | 			     | 			   | More Graphs or Presentations		 	|			  					| 
 | 12.09        | 			     | 			   | 									 	|			  Project Due   	| 
 
