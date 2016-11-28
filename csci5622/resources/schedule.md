@@ -41,13 +41,13 @@
 | 11.09        | 			     | [Schlens](https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf)			   | Principal Components				 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson20/lesson20.pdf)		|			| 
 | 11.11        | 			     | 			   | 									 |			| [Feature Engr.](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/feature_engineering/assign.md)			| 
 | 11.14        | 			     | 			   | Bayes Nets							 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson21/lesson21.pdf)		|			| 
-| 11.16        | 			     | 			   | 									 |			|			| 
+| 11.16        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf)			     | 			   | Hidden Markov Models 				 |			|			| 
 | 11.18        | 			     | 			   | 									 |			| [Data/Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) | 
 | 11.21        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
 | 11.23        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
-| 11.28        | 			     | 			   | 									 |			|			| 
-| 11.30        | 			     | 			   | 									 |			|			| 
-| 12.05        | 			     | 			   |  Guest Lecture  					 |			|			| 
-| 12.07        | 			     | 			   | 									 |			|    		| 
+| 11.28        | 			     | 			   | Guest Lecture: Veljko Krunic	     |			|			| 
+| 11.30        | 			     | 			   | Reinforcement Learning 1			 |			|			| 
+| 12.05        | 			     | 			   | Reinforcement Learning 2            |			|			| 
+| 12.07        | 			     | 			   | Ethical Machine Learning			 |			|    		| 
 | 12.09        | 			     | 			   | 									 |			| Project Due   		| 
 
