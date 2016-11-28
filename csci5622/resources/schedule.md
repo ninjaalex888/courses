@@ -45,7 +45,7 @@
 | 11.18        | 			     | 			   | 									 |			| [Data/Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) | 
 | 11.21        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
 | 11.23        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
-| 11.28        | 			     | 			   | Guest Lecture: Veljko Krunic	     |			|			| 
+| 11.28        | 			     | 			   | Guest Lecture: V. Krunic	     |			|			| 
 | 11.30        | 			     | 			   | Reinforcement Learning 1			 |			|			| 
 | 12.05        | 			     | 			   | Reinforcement Learning 2            |			|			| 
 | 12.07        | 			     | 			   | Ethical Machine Learning			 |			|    		| 
