@@ -48,7 +48,7 @@
 | 11.24        | 			     | 			   | Fall Break -- **NO CLASS**			 	|			 					| 
 | 11.29        | 			     | 			   | Preconditioners					 	|			 					| 
 | 12.01        | 			     | 			   | Intro to Multigrid					 	|			 					| 
-| 12.06        | 			     | 			   | Graph Applications					 	|			 					| 
-| 12.08        | 			     | 			   | More Graphs or Presentations		 	|			  					| 
-| 12.09        | 			     | 			   | 									 	|			  Project Due   	| 
+| 12.06        | 			     | 			   | Graph Applications I				 	|			 					| 
+| 12.08        | 			     | 			   | Graph Applications II  			    |			  					| 
+| 12.13        | 			     | 			   | Presentations 4:30pm				 	|			  Project Due   	| 
 
