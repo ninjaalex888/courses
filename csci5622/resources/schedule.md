@@ -46,7 +46,7 @@
 | 11.21        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
 | 11.23        | 			     | 			   | Fall Break -- **NO CLASS**			 |			|			| 
 | 11.28        | 			     | 			   | Guest Lecture: V. Krunic	     |			|			| 
-| 11.30        | 			     | 			   | Reinforcement Learning 1			 |			|			| 
+| 11.30        | [Matiisen](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)			     | 			   | Reinforcement Learning 1			 |			|			| 
 | 12.05        | 			     | 			   | Reinforcement Learning 2            |			|			| 
 | 12.07        | 			     | 			   | Ethical Machine Learning			 |			|    		| 
 | 12.09        | 			     | 			   | 									 |			| Project Due   		| 
