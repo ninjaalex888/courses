@@ -56,7 +56,7 @@ images that add to the discussion).
 Final Video Presentation
 ========================
 
-Before 23:55 on Dec 9th the person in your group whose last name is alphabetically first should upload a 10-15 min video to YouTube presenting your results.  In your presentation you will explain: 
+Before 23:55 on Dec 11th the person in your group whose last name is alphabetically first should upload a 10-15 min video to YouTube presenting your results.  In your presentation you will explain: 
 
 * What you did
 
