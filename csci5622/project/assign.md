@@ -41,7 +41,7 @@ By 23:55 on November 18th the person in your group whose last name is alphabetic
 Project Writeup
 ======================
 
-By 23:55 on Dec 9th, have the person in your group whose last name is alphabetically first submit your project writeup in PDF format  explaining what you did and what results you achieved on Moodle.  This document should make it clear:
+By 23:55 on Dec 11th, have the person in your group whose last name is alphabetically first submit your project writeup in PDF format  explaining what you did and what results you achieved on Moodle.  This document should make it clear:
 
 * What you did
 * Why this is a good idea
@@ -50,13 +50,13 @@ By 23:55 on Dec 9th, have the person in your group whose last name is alphabetic
 
 The writeup should be between 2500 and 3000 words in length. 
 Images are a much better use of space than words, usually (there's no
-limit on including images, but use your judgement and include only 
+limit on including images, but use your judgment and include only 
 images that add to the discussion).
 
 Final Video Presentation
 ========================
 
-Before 23:55 on Dec 11th the person in your group whose last name is alphabetically first should upload a 10-15 min video to YouTube presenting your results.  In your presentation you will explain: 
+Before 23:55 on Dec 9th the person in your group whose last name is alphabetically first should upload a 10-15 min video to YouTube presenting your results.  In your presentation you will explain: 
 
 * What you did
 
