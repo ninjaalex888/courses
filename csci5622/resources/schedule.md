@@ -50,5 +50,5 @@
 | 12.05        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)			     | 			   | Reinforcement Learning 2            |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson24/lesson24.pdf)		|			| 
 | 12.07        | 			     | 			   | Ethical Machine Learning			 |			|    		| 
 | 12.09        | 			     | 			   | 									 |			| [Writeup Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)   		| 
-| 12.11        | 			     | 			   | 									 |			| [Video Pres Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)   		| 
+| 12.11        | 			     | 			   | 									 |			| [Video Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)   		| 
 
