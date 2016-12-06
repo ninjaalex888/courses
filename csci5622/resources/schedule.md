@@ -49,5 +49,6 @@
 | 11.30        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)			     | 			   | Reinforcement Learning 1			 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson23/lesson23.pdf)		|			| 
 | 12.05        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)			     | 			   | Reinforcement Learning 2            |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/videos/lesson24/lesson24.pdf)		|			| 
 | 12.07        | 			     | 			   | Ethical Machine Learning			 |			|    		| 
-| 12.09        | 			     | 			   | 									 |			| Project Due   		| 
+| 12.09        | 			     | 			   | 									 |			| Report Due   		| 
+| 12.11        | 			     | 			   | 									 |			| Video Due   		| 
 
