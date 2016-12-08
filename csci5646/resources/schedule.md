@@ -49,6 +49,6 @@
 | 11.29        | 			     | 			   | Preconditioners					 	|			 					| 
 | 12.01        | [Slides](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iwdq8v2cuzs2p6)			     | 			   | Intro to Multigrid					 	|			 					| 
 | 12.06        | [Bryan](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iwdq5cksum564a), [Gyongy](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iwdq5qmknyz6kr)			     | 			   | Graph Applications I				 	|			 					| 
-| 12.08        | 			     | 			   | Graph Applications II  			    |			  					| 
-| 12.13        | 			     | 			   | Presentations 4:30pm				 	|			  Project Due   	| 
+| 12.08        | [Slides](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iwgm0sveh7r5ye)/[Luxburg](https://piazza.com/class_profile/get_resource/is1vxcehtkp2d1/iwgm19wf2sx63p)			     | 			   | Graph Applications II  			    |			  					| 
+| 12.13        | 			     | 			   | Presentations 4:30pm in ECCR 135		|			  Project Due   	| 
 
