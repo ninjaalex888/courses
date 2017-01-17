@@ -18,7 +18,7 @@ for this assignment; logistic regression is implemented in scikit
 learn, but you should do everything by hand now.  You'll be able to
 use library implementations of logistic regression in the future. 
 
-You'll turn in your code and analysis on Moodle.  This assignment is worth 25
+You'll turn in your code and analysis on Moodle.  This assignment is worth 30
 points.
 
 What you have to do
@@ -33,7 +33,9 @@ Coding (20 points):
 
 **NOTES**: 
 - You should not regularize the bias term. 
-- You should implement Lazy Sparse Regularization and only update non-zero features. (See discussion [here](https://nbviewer.jupyter.org/url/grandmaster.colorado.edu/~cketelsen/files/csci5622/notebooks/lesson04/lesson04NBKAnswers.ipynb?flush_cache=true)) 
+- You should implement Lazy Sparse Regularization and only update non-zero features. 
+
+<!---(See discussion [here](https://nbviewer.jupyter.org/url/grandmaster.colorado.edu/~cketelsen/files/csci5622/notebooks/lesson04/lesson04NBKAnswers.ipynb?flush_cache=true)) -->
 
 Analysis (10 points):
 
