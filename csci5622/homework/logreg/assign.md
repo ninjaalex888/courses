@@ -1,7 +1,7 @@
 Logistic Regression
 =
 
-Due: 16. September (11:55pm)
+Due: 10. February by 11:55pm
 
 Overview
 --------
@@ -35,7 +35,7 @@ Coding (20 points):
 - You should not regularize the bias term. 
 - You should implement Lazy Sparse Regularization and only update non-zero features. (See discussion [here](https://nbviewer.jupyter.org/url/grandmaster.colorado.edu/~cketelsen/files/csci5622/notebooks/lesson04/lesson04NBKAnswers.ipynb?flush_cache=true)) 
 
-Analysis (5 points):
+Analysis (10 points):
 
 1. How did the learning rate affect the convergence of your SGA implementation?
 2. What was your stopping criterion and how many passes over the data did you need to complete before stopping?

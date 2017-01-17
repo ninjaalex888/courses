@@ -24,7 +24,7 @@ already been implemented for you.  If you are implementing
 n-dimensional search or a median algorithm, you are generating extra
 work for yourself and making yourself vulnerable to errors.
 
-You'll turn in your code on Moodle.  This assignment is worth 15
+You'll turn in your code on Moodle.  This assignment is worth 25
 points.  Other assignments will be worth more.
 
 Before you do anything, you will need to check out the data directory located on GitHub on the same level 
@@ -33,13 +33,13 @@ as the knn directory.
 What you have to do
 ----
 
-Coding (10 points):
+Coding (15 points):
 
 1.  Modify the _majority_ function so that it returns the *label* associated with the most *neighboring indices*.
 1.  Modify the _classify_ function so that it finds the closest indicies to the query point.
 1.  Modify the _confusion matrix_ function to classify examples and record which number it got right.
 
-Analysis (5 points):
+Analysis (10 points):
 
 1.  What is the relationship between the number of training examples and accuracy?
 1.  What is the relationship between _k_ and accuracy?
