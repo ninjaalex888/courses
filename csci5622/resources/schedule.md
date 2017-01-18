@@ -9,14 +9,14 @@
 - Homework is listed by **due date**
 <!--- - All in-class notebooks will be posted [here](https://github.com/chrisketelsen/csci5622notebooks) -->
 
-| Date 		   | Reading         |  Optional   |                Topic             	 | Vids/NBKs| Hmwk  	| 
+| Date 		   | Reading         |  Optional   |                Topic             	 | Slides/Vids| Hmwk  	| 
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
 | 01.16        | 		         | 			   | MLK DAY -- **NO CLASS**			 |			|			| 
-| 01.18        | BRML 14.1-10.2	 | BRML 1.1-1.2| ML Intro / KNN						 |			|			| 
+| 01.18        | BRML 14.1-10.2	 | BRML 1.1-1.2| ML Intro / KNN						 |												<!---[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson01.pdf)-->		|			| 
 | 01.20        |  				 |             | 									 |			|			| 
 | 01.23        | BRML 10.1-10.2  | BRML 1.3    | Naive Bayes 						 |			|			| 
 | 01.25        | ISL 4.1-4.3     | Elkan       | Logistic Regression			     |			|			| 
-| 01.27        | 		         | 			   | 									 |			| KNN		| 
+| 01.27        | 		         | 			   | 									 |			| 											[KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 01.30        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)																				 | 			   | Stochastic Gradient Ascent 		 |			|			| 
 | 02.01        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)			 																	 | 			   | Momentum and Multi-class <!---(ECC in cl)-->|			|			| 
 | 02.03        | 		         | 			   |  									 |			| Groups	| 
