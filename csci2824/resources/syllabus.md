@@ -72,8 +72,8 @@ The overall grades will be based on a cumulative score computed from
 * The final exam 
 
 Overall, the contributions to the final grades will be: 
-* Weekly Homework (30% of the grade)
-* In-Class Quizzes (30% of the grade)
+* Weekly Homework (35% of the grade)
+* In-Class Quizzes (35% of the grade)
 * Participation (10% of the grade)
 * Final Exam (20% of the grade)
 
