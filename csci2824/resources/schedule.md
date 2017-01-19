@@ -8,7 +8,7 @@
 | Date 		   | Reading         |  Optional   |                Topic             	 | Slides   | Hmwk  	| 
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
 | 01.16        | 		         | 			   | MLK DAY -- **NO CLASS**			 |			|			| 
-| 01.18        | 1.1			 | 			   | Discrete Intro / Propositional Logic|			|			| 
+| 01.18        | 1.1			 | 			   | Discrete Intro / Propositional Logic|	[Lecture 1](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy4l41p5rx15ps)								       |		   | 
 | 01.20        | 1.1, 1.2 		 |             | Propositional Logic and Applications|			|       																																	| 
 | 01.23        | 1.3			 | 			   | Logical Equivalences				 |			|			| 
 | 01.25        | 1.4			 | 			   | Predicates and Quantifiers 		 |			|			| 
