@@ -7,7 +7,7 @@
 	- ISL = [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by James et. al. 
 	- ESL = [Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/) by Hastie et. al. 
 - Homework is listed by **due date**
-<!--- - All in-class notebooks will be posted [here](https://github.com/chrisketelsen/csci5622notebooks) -->
+- - All in-class notebooks will be posted [here](https://github.com/chrisketelsen/csci5622notebooks) 
 
 | Date 		   | Reading         |  Optional   |                Topic             	 | Slides/Vids| Hmwk  	| 
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
@@ -19,7 +19,7 @@
 | 01.27        | 		         | 			   | 									 |			| 											[KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 01.30        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)																				 | 			   | Stochastic Gradient Ascent 		 |			|			| 
 | 02.01        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)			 																	 | 			   | Momentum and Multi-class <!---(ECC in cl)-->|			|			| 
-| 02.03        | 		         | 			   |  									 |			| Groups	| 
+| 02.03        | 		         | 			   |  									 |			| [Groups](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											  | 
 | 02.06        | 				 | 			   | Validation / Eval Metrics 			 |          |			| 
 | 02.08        | 				 | 			   | Feature Engineering 				 |	 		|			| 
 | 02.10        | 		         | 			   |  									 |			| LogReg	| 
@@ -31,7 +31,7 @@
 | 02.24        | 		         | 			   |  									 |			| Learn  	| 
 | 02.27        | [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf) 4 														 | 			   | The Kernel Trick 					 |	 		|			| 
 | 03.01        | 				 | 			   | Guest Speaker 						 |	 		|			| 
-| 03.03        | 		         | 			   |  									 |			| Proposal	| 
+| 03.03        | 		         | 			   |  									 |			| [Proposal](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											| 
 | 03.06        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |	        | 			| 
 | 03.08        | ESL 10.1-10.5	 | 			   | Boosting 							 |	        |			| 
 | 03.10        | 		         | 			   | 									 |			| SVM       | 
@@ -49,7 +49,7 @@
 | 04.07        | 				 | 			   | 									 |			| 			| 
 | 04.10        | 				 |  		   | K-Means							 |			|			| 
 | 04.12        | 				 | 			   | GMMs								 |			|			| 
-| 04.14        | 				 | 			   | 									 |			| Baseline	| 
+| 04.14        | 				 | 			   | 									 |			| [Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											| 
 | 04.17        | 				 | 			   | Bayes Nets 						 |			|			| 
 | 04.19        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			   | HMMs								 |			|			| 
 | 04.21        | 				 | 			   | 									 |			|			| 
@@ -58,6 +58,6 @@
 | 04.28        | 				 | 			   | 									 |			|			| 
 | 05.01        | 				 | 			   | Guest Speaker 						 |			|			| 
 | 05.03        | 				 | 			   | Ethics and ML 						 |			|			| 
-| 05.05        | 				 | 			   | 									 |			| Project Due | 
+| 05.05        | 				 | 			   | 									 |			| [Project Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
 
 
