@@ -10,7 +10,7 @@
 | 01.16        | 		         | 			   | MLK DAY -- **NO CLASS**			 |			|			| 
 | 01.18        | 1.1			 | 			   | Discrete Intro / Propositional Logic|	[Lecture 1](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy4l41p5rx15ps)								       |		   | 
 | 01.20        | 1.1, 1.2 		 |             | Propositional Logic and Applications|	[Lecture 2](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy62g1p4r8k5yh)									   |       	   | 
-| 01.23        | 1.3			 | 			   | Logical Equivalences				 |			|			| 
+| 01.23        | 1.3			 | [Norvig](http://norvig.com/sudoku.html)			   																							| Logical Equivalences				 |			|			| 
 | 01.25        | 1.4			 | 			   | Predicates and Quantifiers 		 |			|			| 
 | 01.27        | 1.5, 1.6	     | 			   | Nested Quantifiers / Rules of Inference |		| [hmwk01](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy5ygsd255l4wn)			        							  | 
 | 01.30        | 1.7			 | 			   | Introduction to Proofs 			 |			|			| 
