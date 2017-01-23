@@ -7,7 +7,7 @@
 	- ISL = [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by James et. al. 
 	- ESL = [Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/) by Hastie et. al. 
 - Homework is listed by **due date**
-- - All in-class notebooks will be posted [here](https://github.com/chrisketelsen/csci5622notebooks) 
+- All in-class notebooks will be posted [here](https://github.com/chrisketelsen/csci5622notebooks) 
 
 | Date 		   | Reading         |  Optional   |                Topic             	 | Slides/Vids| Hmwk  	| 
 |:------------:| ----------------| ------------|-------------------------------------|----------|-----------|
