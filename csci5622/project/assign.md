@@ -32,7 +32,7 @@ should describe:
 * What techniques you will explore 
 
 * Your timeline for completing the project (be realistic; you should
-  have your first results by November 18th)
+  have your first results by April 14th)
 
 Have the person in your group whose name is alphabetically first
 submit your assignment on Moodle.  Late days cannot be used on this
