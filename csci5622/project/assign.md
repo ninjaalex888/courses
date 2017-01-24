@@ -99,3 +99,12 @@ Your grade will be based on five areas:
 * _Effort_: Did you do what you say you would, and was it the right amount of effort.
 
 * _Performance_: How did your techniques perform?
+
+Outstanding Examples
+======================
+
+To give you a better idea of what I'm looking for, here are the YouTube presentations of two outstanding projects from Fall 2016:
+
+[Tracking Tor using Siamese LSTM](https://www.youtube.com/watch?v=YP45X-LT29o&feature=youtu.be)
+
+[NEAT FlapPyBi/o](https://www.youtube.com/watch?v=H4WnRLEG73Q&feature=youtu.be)
