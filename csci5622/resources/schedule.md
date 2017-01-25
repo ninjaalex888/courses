@@ -15,7 +15,7 @@
 | 01.18        | BRML 14.1-14.2	 | BRML 1.1-1.2| ML Intro / KNN						 |												[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson01.pdf)		|			| 
 | 01.20        |  				 |             | 									 |			|			| 
 | 01.23        | BRML 10.1-10.2  | BRML 1.3    | Naive Bayes 						 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson02.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lw6kCrLHamfO1C6aO6cYn9e)										   														|	 	    | 
-| 01.25        | ISL 4.1-4.3     | Elkan       | Logistic Regression			     |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson03.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxLOescqOXFeiFMQiHKQpbc)										   														|		    | 
+| 01.25        | ISL 4.1-4.3     | [Elkan](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)/[N&J](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)                                            																			       | Logistic Regression			     |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson03.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxLOescqOXFeiFMQiHKQpbc)										   														|		    | 
 | 01.27        | 		         | 			   | 									 |			| 											[KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 01.30        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)																				 | 			   | Stochastic Gradient Ascent 		 |			|			| 
 | 02.01        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)			 																	 | 			   | Momentum and Multi-class <!---(ECC in cl)-->|			|			| 
