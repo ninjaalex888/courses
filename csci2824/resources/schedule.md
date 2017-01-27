@@ -12,10 +12,10 @@
 | 01.20        | 1.1, 1.2 		 |             | Propositional Logic and Applications|	[Lecture 2](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy62g1p4r8k5yh)									   |       	   | 
 | 01.23        | 1.3			 | [Norvig](http://norvig.com/sudoku.html)			   																							| Logical Equivalences				 |	[Lecture 3](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iybqh7k8ms51ui)	   						           |		   | 
 | 01.25        | 1.4			 | 			   | Predicates and Quantifiers 		 |	[Lecture 4](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyf2qh1dxsc13k)									   |		   | 
-| 01.27        | 1.5     	     | 			   | Nested Quantifiers 				 |		    | [hmwk01](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy5ygsd255l4wn)			        							  | 
+| 01.27        | 1.5     	     | 			   | Nested Quantifiers 				 |	[Lecture 5](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyg2jfv2yav32w)	                                   | [hmwk01](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy5ygsd255l4wn)			        							 | 
 | 01.30        | 1.6			 | 			   | Rules of Inference    				 |			|			| 
 | 02.01        | 1.7			 | 			   | Introduction to Proofs              | 			|			| 
-| 02.03        | 1.8	         | 			   | Proof Methods and Strategy          |			| [hmwk02](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyfe9vdopoi6u1)		 										  | 
+| 02.03        | 1.8	         | 			   | Proof Methods and Strategy          |			| [hmwk02](https://piazza-resources.s3.amazonaws.com/ixw3l3198zlbb/iyfz4a1effl43c/hmwk02.pdf?AWSAccessKeyId=AKIAIEDNRLJ4AZKBW6HA&Expires=1485547905&Signature=%2BViLdSWKbZrQC3H3s49GGH8h0r0%3D)		 										  | 
 | 02.06        | 2.1,    		 | 			   | Set Theory 						 |          |			| 
 | 02.08        | 2.1, 2.2		 | 			   | Set Operations- **Quiz 1** (covers hmwks 1-2) ||			| 
 | 02.10        | 2.5	         | 			   | Cardinality                         |			| hmwk03																																	| 
