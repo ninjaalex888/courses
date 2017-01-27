@@ -12,17 +12,17 @@
 | 01.20        | 1.1, 1.2 		 |             | Propositional Logic and Applications|	[Lecture 2](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy62g1p4r8k5yh)									   |       	   | 
 | 01.23        | 1.3			 | [Norvig](http://norvig.com/sudoku.html)			   																							| Logical Equivalences				 |	[Lecture 3](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iybqh7k8ms51ui)	   						           |		   | 
 | 01.25        | 1.4			 | 			   | Predicates and Quantifiers 		 |	[Lecture 4](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyev2zttp087mr)									   |		   | 
-| 01.27        | 1.5, 1.6	     | 			   | Nested Quantifiers / Rules of Inference |		| [hmwk01](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy5ygsd255l4wn)			        							  | 
-| 01.30        | 1.7			 | 			   | Introduction to Proofs 			 |			|			| 
-| 02.01        | 1.8			 | 			   | Proof Methods and Strategy			 | 			|			| 
-| 02.03        | 2.1	         | 			   | Set Theory 						 |			| hmwk02																																	| 
-| 02.06        | 2.1, 2.2		 | 			   | Set Theory, Set Operations			 |          |			| 
-| 02.08        | 2.5			 | 			   | Cardinality - **Quiz 1** (covers hmwks 1-2) |	|			| 
-| 02.10        | 2.3	         | 			   | Functions 							 |			| hmwk03																																	| 
-| 02.13        | 2.4			 | 			   | Sequences and Summations			 |          |			| 
-| 02.15        | 3.1			 | 			   | Algorithms							 |	 		|			| 
-| 02.17        | 3.2, 3.3	     | 			   | Complexity 						 |			| hmwk04																																	| 
-| 02.20        | 				 |	     	   | 									 |	    	|			| 
+| 01.27        | 1.5     	     | 			   | Nested Quantifiers 				 |		| [hmwk01](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy5ygsd255l4wn)			        							  | 
+| 01.30        | 1.6			 | 			   | Rules of Inference    				 |			|			| 
+| 02.01        | 1.7			 | 			   | Introduction to Proofs              | 			|			| 
+| 02.03        | 1.8	         | 			   | Proof Methods and Strategy          |			| hmwk02																																	| 
+| 02.06        | 2.1,    		 | 			   | Set Theory 						 |          |			| 
+| 02.08        | 2.1, 2.2		 | 			   | Set Operations- **Quiz 1** (covers hmwks 1-2) |	|			| 
+| 02.10        | 2.5	         | 			   | Cardinality                         |			| hmwk03																																	| 
+| 02.13        | 2.3			 | 			   | Functions				  	 		 |          |			| 
+| 02.15        | 2.4			 | 			   | Sequences and Summations			 |	 		|			| 
+| 02.17        | 3.1		     | 			   | Algorithms 						 |			| hmwk04																																	| 
+| 02.20        | 3.2, 3.3		 |	     	   | Complexity							 |	    	|			| 
 | 02.22        | 				 | 			   | -- **Quiz 2** (covers hmwks 3-4)	 | 			|			| 
 | 02.24        | 		         | 			   |  									 |			| hmwk05																																	| 
 <!--
