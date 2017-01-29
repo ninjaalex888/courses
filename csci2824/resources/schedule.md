@@ -15,7 +15,7 @@
 | 01.27        | 1.5     	     | 			   | Nested Quantifiers 				 |	[Lecture 5](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyg2jfv2yav32w)	                                   | [hmwk01](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iy5ygsd255l4wn)			        							 | 
 | 01.30        | 1.6			 | 			   | Rules of Inference    				 |			|			| 
 | 02.01        | 1.7			 | 			   | Introduction to Proofs              | 			|			| 
-| 02.03        | 1.8	         | 			   | Proof Methods and Strategy          |			| [hmwk02](https://piazza-resources.s3.amazonaws.com/ixw3l3198zlbb/iyfz4a1effl43c/hmwk02.pdf?AWSAccessKeyId=AKIAIEDNRLJ4AZKBW6HA&Expires=1485637871&Signature=RgBH8C3SRodn3MZ7MC1aqCbHN20%3D)		 										  | 
+| 02.03        | 1.8	         | 			   | Proof Methods and Strategy          |			| [hmwk02](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyfz4a1effl43c)		 										  | 
 | 02.06        | 2.1,    		 | 			   | Set Theory 						 |          |			| 
 | 02.08        | 2.1, 2.2		 | 			   | Set Operations- **Quiz 1** (covers hmwks 1-2) ||			| 
 | 02.10        | 2.5	         | 			   | Cardinality                         |			| hmwk03																																	| 
