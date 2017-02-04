@@ -18,7 +18,7 @@
 | 01.25        | ISL 4.1-4.3     | [Elkan](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)/[N&J](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)                                            																			       | Logistic Regression			     |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson03.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxLOescqOXFeiFMQiHKQpbc)										   														|		    | 
 | 01.27        | 		         | 			   | 									 |			| 											[KNN](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/knn/assign.md)		| 
 | 01.30        | [Elkan](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)      |[Ruder](http://sebastianruder.com/optimizing-gradient-descent/)																				  			   | Stochastic Gradient Ascent 		 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson04.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lwf58whD9P7fjq5fbCgVVrp)		|			| 
-| 02.01        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)			 																	 | 			   | Momentum and Multi-class <!---(ECC in cl)-->|			|			| 
+| 02.01        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)			 																	 | 			   | Momentum and Multi-class <!---(ECC in cl)-->|	[vids](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson05.pdf)		|			| 
 | 02.03        | 		         | 			   |  									 |			| [Groups](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											  | 
 | 02.06        | 				 | 			   | Validation / Eval Metrics 			 |          |			| 
 | 02.08        | 				 | 			   | Feature Engineering 				 |	 		|			| 
