@@ -23,8 +23,8 @@
 | 02.06        | ISL 5.1		 | [Fawcett](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf)																				   | Validation / Eval Metrics 			 | [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson06.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lz7Hml37jNzavVtwf8bp25L)         |			| 
 | 02.08        | 				 | 			   | Feature Engineering 				 |	 		|			| 
 | 02.10        | 		         | 			   |  									 |			| [LogReg](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/logreg/assign.md)	                                  | 
-| 02.13        | ESL 3.1-3.2	 | 			   | Regression 			      		 |			|			| 
-| 02.15        | ESL 3.4		 |             | Regularization						 |          |			| 
+| 02.13        | ESL 3.1-3.2	 | 			   | Regression 			      		 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson08.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LwR6IVtKAqSlzy4PjscOG1E)										   |		   | 
+| 02.15        | ESL 3.4		 |             | Regularization						 |  [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson09.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lwll_CxrMufMPNv6hH7g1Eg)       |			| 
 | 02.17        | 		         | 			   | 									 |			|         	| 
 | 02.20        | Mohri 2         | 			   | Learning Theory Part 1			     |          |			| 
 | 02.22        | Mohri 3.2-3.3   | 			   | Learning Theory Part 2				 |	 		|			| 
