@@ -20,7 +20,7 @@
 | 01.30        | [Elkan](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)      |[Ruder](http://sebastianruder.com/optimizing-gradient-descent/)																				  			   | Stochastic Gradient Ascent 		 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson04.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lwf58whD9P7fjq5fbCgVVrp)		|			| 
 | 02.01        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)			 																	 | 			   | Momentum and Multi-class <!---(ECC in cl)-->|	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson05.pdf)		|			| 
 | 02.03        | 		         | 			   |  									 |			| [Groups](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											  | 
-| 02.06        | ISL 5.1		 | [Fawcett](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf)																				   | Validation / Eval Metrics 			 | [vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lz7Hml37jNzavVtwf8bp25L)         |			| 
+| 02.06        | ISL 5.1		 | [Fawcett](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf)																				   | Validation / Eval Metrics 			 | [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson06.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lz7Hml37jNzavVtwf8bp25L)         |			| 
 | 02.08        | 				 | 			   | Feature Engineering 				 |	 		|			| 
 | 02.10        | 		         | 			   |  									 |			| [LogReg](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/logreg/assign.md)	                                  | 
 | 02.13        | ESL 3.1-3.2	 | 			   | Regression 			      		 |			|			| 
