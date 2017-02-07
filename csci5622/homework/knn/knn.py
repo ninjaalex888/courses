@@ -44,6 +44,9 @@ class Knearest:
         # Do not use another data structure from anywhere else to
         # complete the assignment.
 
+        self._x = x
+        self._kindices = []
+
         self._kdtree = BallTree(x)
         self._y = y
         self._k = k
@@ -56,7 +59,40 @@ class Knearest:
 
         :param item_indices: The indices of the k nearest neighbors
         """
+
+        # print("")
+        # print("******")
+        # print("self k")
+        # print(self._k)
         assert len(item_indices) == self._k, "Did not get k inputs"
+       
+        # print("item indices:")
+        # print(item_indices)
+        # print("self y:")
+        # print(self._y)
+        list_possible = []
+        for i in item_indices:
+            list_possible.append(self._y[i])
+
+        # print('list_possible')
+        # print(list_possible)
+        most_common_counter = Counter(list_possible)
+        # print(most_common_counter)
+        most_common = 0
+        
+        if len(most_common_counter) > 1:
+            if most_common_counter.most_common()[0][1] == most_common_counter.most_common()[1][1]:
+                # print("two most common")
+                median_array = numpy.array([most_common_counter.most_common()[0][0], most_common_counter.most_common()[1][0]])
+                median = numpy.median(median_array)
+                # print(median)
+                most_common = median
+            else:
+                most_common = most_common_counter.most_common()[0][0]
+        else:
+            most_common = most_common_counter.most_common()[0][0]
+            # print("MADE IT TO ELSE")
+        # print("")
 
         # Finish this function to return the most common y label for
         # the given indices.  The current return value is a placeholder 
@@ -64,7 +100,7 @@ class Knearest:
         #
         # http://docs.scipy.org/doc/numpy/reference/generated/numpy.median.html
 
-        return self._y[item_indices[0]]
+        return most_common
 
     def classify(self, example):
         """
@@ -78,9 +114,31 @@ class Knearest:
         # majority function, and return the predicted label.
         # Again, the current return value is a placeholder 
         # and definitely needs to be changed. 
+        # print("")
+        # print("self k")
+        # print(self._k)
+        # print("self y")
+        # print(self._y)
+        # print("")
+        # print("")
+        # print("example")
+        # print(example)
+        # print("tree")
+        # print(self._kdtree)
+        # print("data input")
+        # print(self._x)
+        # print("")
+        dist, k_indices = self._kdtree.query([example], self._k)
+        # print("nearest")
+        # print(k_indices[0])
+        k_indices = k_indices.tolist()
+        # print("k indicies after list")
+        # print(k_indices[0])
 
-        return self.majority(list(random.randrange(len(self._y)) \
-                                  for x in xrange(self._k)))
+        return self.majority(k_indices[0])
+
+        # return self.majority(list(random.randrange(len(self._y)) \
+        #                           for x in xrange(self._k)))
 
     def confusion_matrix(self, test_x, test_y):
         """
@@ -92,14 +150,46 @@ class Knearest:
         :param test_x: Test data representation
         :param test_y: Test data answers
         """
-
         # Finish this function to build a dictionary with the
         # mislabeled examples.  You'll need to call the classify
         # function for each example.
 
         d = defaultdict(dict)
         data_index = 0
+        # print("test _ x")
+        # print(test_x)
+        # print("test _ yy")
+        # print(test_y)
         for xx, yy in zip(test_x, test_y):
+            # print("xxxx \n\n\n")
+            # print(xx)
+            # # print("yyyy \n\n\n")
+            # if self.classify(xx) == yy:
+            #if d.get([self.classify(xx)][yy]) != 
+            # print("Classify xx")
+            # print(self.classify(xx))
+            # print("yy")
+            # print(yy)
+            # if d.has_key([self.classify(xx)][yy]):
+            # d[self.classify(xx)][yy] += 1
+            # else: 
+            #     d[self.classify(xx)][yy] = 1
+            ii = self.classify(xx)
+            jj = yy
+            if ii not in d: 
+                d[ii] = {}
+                if jj not in d[ii]:
+                    d[ii][jj] = 1 
+            else: 
+                # print("ii [jj]")
+                # print(jj)
+                if jj not in d[ii]: 
+                    d[ii][jj] = 1
+                else: 
+                    d[ii][jj] += 1 
+
+
+
             data_index += 1
             if data_index % 100 == 0:
                 print("%i/%i for confusion matrix" % (data_index, len(test_x)))
