@@ -18,9 +18,9 @@
 | 02.03        | 1.8	         | 			   | Proof Methods and Strategy          |	[Lecture 8](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyq9v84tmm61mm)	                                   | [hmwk02](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyfz4a1effl43c)		 										  | 
 | 02.06        | 2.1,    		 | 			   | Set Theory 						 | [Lectures 9 and 10](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyxf4026x3h1wa)         |			| 
 | 02.08        | 2.1, 2.2		 | 			   | Set Operations- **Quiz 1** (covers hmwks 1-2) | [Lectures 9 and 10](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyxf4026x3h1wa)   |			| 
-| 02.10        | 2.3	         | 			   | Functions                         |			| [hmwk03](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyp4iv2ayyl43f)												  | 
-| 02.13        | 2.4			 | 			   | Sequences and Summations	 		 |          |			| 
-| 02.15        | 2.5			 | 			   | Cardinality 						 |	 		|			| 
+| 02.10        | 2.2, 2.5	     | 			   | Set Operations and Cardinality-Lite |			| [hmwk03](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyp4iv2ayyl43f)												  | 
+| 02.13        | 2.3			 | 			   | Functions 							 |          |			| 
+| 02.15        | 2.4			 | 			   | Sequences and Summations            |	 		|			| 
 | 02.17        | 3.1		     | 			   | Algorithms 						 |			| hmwk04																																	| 
 | 02.20        | 3.2, 3.3		 |	     	   | Complexity							 |	    	|			| 
 | 02.22        | 				 | 			   | -- **Quiz 2** (covers hmwks 3-4)	 | 			|			| 
