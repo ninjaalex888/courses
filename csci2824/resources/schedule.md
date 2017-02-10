@@ -21,7 +21,7 @@
 | 02.10        | 2.2, 2.5	     | 			   | Set Operations and Cardinality-Lite |			| [hmwk03](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyp4iv2ayyl43f)												  | 
 | 02.13        | 2.3			 | 			   | Functions 							 |          |			| 
 | 02.15        | 2.4			 | 			   | Sequences and Summations            |	 		|			| 
-| 02.17        | 3.1		     | 			   | Algorithms 						 |			| [hmwk04](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyzy2428xtwoy)																																	| 
+| 02.17        | 3.1		     | 			   | Algorithms 						 |			| [hmwk04](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz0blyufbik2pc)																																	| 
 | 02.20        | 3.2, 3.3		 |	     	   | Complexity							 |	    	|			| 
 | 02.22        | 				 | 			   | -- **Quiz 2** (covers hmwks 3-4)	 | 			|			| 
 | 02.24        | 		         | 			   |  									 |			| hmwk05																																	| 
