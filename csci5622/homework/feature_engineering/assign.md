@@ -62,7 +62,7 @@ predictions on Kaggle, an online tournament site for machine learning
 competitions.  You must sign up with your Colorado e-mail (it's a restricted
 entry competition).
 
-https://inclass.kaggle.com/c/[#TODO]
+https://inclass.kaggle.com/c/feature-engineering-csci-4830-5622-spring-2017
 
 In addition:
 * please turn in a file called _analysis.pdf_ explaining your process of
