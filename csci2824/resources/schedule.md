@@ -26,7 +26,7 @@
 | 02.22        | 3.2, 3.3		 | 			   | Complexity							 | 			|			| 
 | 02.24        | 		         | 			   | 								     |			| [hmwk05](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz8p8u2dq5h3rb)	| 
 | 02.27        | 				 | 			   | 									 |	 		|			| 
-| 03.01        | 				 | 			   | **Quiz 2** 						 |	 		|			| 
+| 03.01        | 				 | 			   | **Quiz 2** (covers hmwks 3-4) 		 |	 		|			| 
 | 03.03        | 		         | 			   |  									 |			| 			| 
 <!--
 | 03.06        | 				 | 			   | 									 |	        | 			| 
