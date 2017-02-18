@@ -21,7 +21,7 @@
 | 02.10        | 2.2, 2.5	     | 			   | Set Operations and Cardinality-Lite |	[Lecture 11](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz0xtinylp56az)									| [hmwk03](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iyp4iv2ayyl43f)												  | 
 | 02.13        |    			 | 			   | **Bed Bugs**                        |          |			| 
 | 02.15        | 2.3			 | 			   | Functions                           |	[Lecture 12](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz8s9kagsv35bu) 		|			| 
-| 02.17        | 2.4		     | 			   | Sequences and Summations            |			| [hmwk04](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz0blyufbik2pc)												  | 
+| 02.17        | 2.4		     | 			   | Sequences 							 |	[Lecture 13](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izbjeane1xf73k)		| [hmwk04](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz0blyufbik2pc)												  | 
 | 02.20        | 3.1         	 |	     	   | Algorithms							 |	    	|			| 
 | 02.22        | 3.2, 3.3		 | 			   | Complexity							 | 			|			| 
 | 02.24        | 		         | 			   | 								     |			| [hmwk05](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz8p8u2dq5h3rb)	| 
