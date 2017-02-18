@@ -1,7 +1,7 @@
 import random
 import argparse
 
-from numpy import zeros, sign 
+from numpy import zeros, sign, dot
 from math import exp, log
 from collections import defaultdict
 
@@ -37,6 +37,7 @@ class Example:
         :param words: The words in a list of "word:count" format
         :param vocab: The vocabulary to use as features (list)
         """
+
         self.nonzero = {}
         self.y = label
         self.x = zeros(len(vocab))
@@ -97,8 +98,27 @@ class LogReg:
         :param use_tfidf: A boolean to switch between the raw data and the tfidf representation
         :return: Return the new value of the regression coefficients
         """
+
+        y = train_example.y
+        x = train_example.x
         
+        eta = self.eta
+
+        muii = y - sigmoid(dot(self.w, x))
+
+        count = 0 
+        for kk in self.w:
+            if count != 0: #count != 0 for bias term, check for non zero x_feature terms
+                self.w[count] = self.w[count] + eta(0.1) * muii * x[count]
+                # self.w[count] = self.w[count] * ( 1 - 2*(eta(0.1) * muii * x[count]))**(iteration - self.last_update[count])
+                #self.last_update[count] = iteration
+                count = count + 1
+            else:
+                self.w[count] = self.w[count] + eta(0.1) * muii * x[count]
+                count = count + 1
+        #print(count)
         # TODO: Implement updates in this function
+        #print(iteration)
 
         return self.w
 
@@ -163,15 +183,28 @@ if __name__ == "__main__":
     # Initialize model
     lr = LogReg(len(vocab), args.lam, lambda x: args.eta)
 
+    #for x in 
     # Iterations
     iteration = 0
     for pp in xrange(args.passes):
         random.shuffle(train)
         for ex in train:
-            lr.sg_update(ex, iteration)
+            sga = lr.sg_update(ex, iteration)
             if iteration % 5 == 1:
                 train_lp, train_acc = lr.progress(train)
                 ho_lp, ho_acc = lr.progress(test)
                 print("Update %i\tTP %f\tHP %f\tTA %f\tHA %f" %
                       (iteration, train_lp, ho_lp, train_acc, ho_acc))
             iteration += 1
+        max_val = max(sga)
+        min_val = min(sga)
+        print(max_val)
+        print(min_val)
+        count = 0
+        for x in sga:
+            if x == max_val or x == min_val:
+                print(count)
+            count = count + 1
+        print("word")
+        print(vocab[max_val.astype(int)])
+        print(vocab[min_val.astype(int)])
