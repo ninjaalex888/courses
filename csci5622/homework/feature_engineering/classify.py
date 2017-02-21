@@ -12,7 +12,8 @@ kTEXT_FIELD = 'sentence'
 
 class Featurizer:
     def __init__(self):
-        self.vectorizer = CountVectorizer()
+        self.vectorizer = CountVectorizer(stop_words='english', ngram_range=(1, 2))
+
 
     def train_feature(self, examples):
         return self.vectorizer.fit_transform(examples)
@@ -40,6 +41,7 @@ if __name__ == "__main__":
 
     feat = Featurizer()
 
+
     labels = []
     for line in train:
         if not line[kTARGET_FIELD] in labels:
@@ -55,11 +57,18 @@ if __name__ == "__main__":
     print(len(train), len(y_train))
     print(set(y_train))
 
+    print("SHAPE")
+    print(x_train.shape)
+
     # Train classifier
     lr = SGDClassifier(loss='log', penalty='l2', shuffle=True)
     lr.fit(x_train, y_train)
 
+    print("***")
     feat.show_top10(lr, labels)
+    #print(feat.vectorizer)
+    print("***")
+
 
     predictions = lr.predict(x_test)
     o = DictWriter(open("predictions.csv", 'w'), ["Id", "spoiler"])
